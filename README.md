@@ -8,4 +8,4 @@ Christoph Kirst, University of California San Francisco
 
 Decoding a a test sinosoidal trajectory:
 
-[Decoding](example.png) 
+![Decoding](example.png) 
