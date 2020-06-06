@@ -6,7 +6,6 @@ Christoph Kirst, University of California San Francisco
 
 # Example
 
-<<<<<<< HEAD
 Decoding test sinosoidal trajectory:
 
 ![Data](example_data.png) 
