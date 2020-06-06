@@ -6,10 +6,12 @@ Christoph Kirst, University of California San Francisco
 
 # Example
 
-Decoding test sinosoidal trajectory
+<<<<<<< HEAD
+Decoding test sinosoidal trajectory:
 
 ![Data](example_data.png) 
 
-to a posterior probability for the position":"
+to a posterior probability for the position:
 
 ![Decoded](example_decoded.png) 
+
