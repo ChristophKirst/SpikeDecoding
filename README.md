@@ -6,6 +6,6 @@ Christoph Kirst, University of California San Francisco
 
 # Example
 
-Decoding a a test sinosoidal trajectory:
+Decoding a test sinosoidal trajectory:
 
 ![Decoding](example.png) 
